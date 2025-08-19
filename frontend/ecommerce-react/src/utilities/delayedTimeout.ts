@@ -1,0 +1,1 @@
+export const delayedTimeout = (ms: number | undefined) => new Promise(res => setTimeout(res,ms))

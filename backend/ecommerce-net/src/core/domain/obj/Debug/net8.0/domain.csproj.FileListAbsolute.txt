@@ -1,0 +1,12 @@
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/bin/Debug/net8.0/domain.deps.json
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/bin/Debug/net8.0/domain.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/bin/Debug/net8.0/domain.pdb
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.AssemblyInfoInputs.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.AssemblyInfo.cs
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.csproj.CoreCompileInputs.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/refint/domain.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.pdb
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/ref/domain.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.csproj.AssemblyReference.cache

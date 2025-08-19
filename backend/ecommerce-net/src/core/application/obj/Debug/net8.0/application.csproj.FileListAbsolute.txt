@@ -1,0 +1,17 @@
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/application.deps.json
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/application.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/application.pdb
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/domain.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/domain.pdb
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.csproj.AssemblyReference.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.AssemblyInfoInputs.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.AssemblyInfo.cs
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.csproj.CoreCompileInputs.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.csproj.CopyComplete
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/refint/application.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.pdb
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/ref/application.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/application.runtimeconfig.json
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.genruntimeconfig.cache
