@@ -29,3 +29,9 @@ export interface ProductFilters {
   PriceMax?: number;
   Status?: string; 
 }
+
+export interface SearchParams {
+  search: string;
+  priceMin?: number;
+  priceMax?: number;
+}

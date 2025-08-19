@@ -53,6 +53,10 @@ export default function Products() {
 
   const [search, setSearch] = useState("");
 
+  const [showAdvanced, setShowAdvanced] = useState(false);
+  const [priceMin, setPriceMin] = useState<number | "">("");
+  const [priceMax, setPriceMax] = useState<number | "">("");
+
   const [openDetails, setOpenDetails] = useState(false);
   const [openStatus, setOpenStatus] = useState(false);
   const [openDelete, setOpenDelete] = useState(false);
@@ -77,12 +81,14 @@ export default function Products() {
 
   const { isPending, data, isError, isFetching, isPlaceholderData } =
     useQuery<ApiResponse>({
-      queryKey: ["products", page, search],
+      queryKey: ["products", page, search, priceMin, priceMax],
       queryFn: () =>
         fetchProducts({
           pageIndex: search ? 1 : page,
           pageSize: search ? 1000 : 3,
           search,
+          priceMin,
+          priceMax
         }),
       placeholderData: keepPreviousData,
     });
@@ -112,7 +118,16 @@ export default function Products() {
   return (
     <main className="p-6 space-y-6">
       <div className="flex items-center justify-between">
-        <ProductSearch onSearch={setSearch} />
+        <ProductSearch
+          onSearch={setSearch}
+          setShowAdvanced={setShowAdvanced}
+          showAdvanced={showAdvanced}
+          priceMin={priceMin}
+          setPriceMin={setPriceMin}
+          priceMax={priceMax}
+          setPriceMax={setPriceMax}
+        />
+
         <Button
           variant="outline"
           size="sm"
@@ -324,7 +339,6 @@ export default function Products() {
         open={openSell}
         product={productItem}
       />
-
 
       <ProductHistoryModal
         setOpen={setOpenHistory}

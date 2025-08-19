@@ -17,3 +17,4 @@
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/infrastructure/obj/Debug/net8.0/ref/infrastructure.dll
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/infrastructure/bin/Debug/net8.0/infrastructure.runtimeconfig.json
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/infrastructure/obj/Debug/net8.0/infrastructure.genruntimeconfig.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/infrastructure/obj/Debug/net8.0/infrastructure.sourcelink.json

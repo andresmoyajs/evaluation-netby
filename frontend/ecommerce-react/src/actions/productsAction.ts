@@ -32,10 +32,12 @@ export const updateProduct = async (formData: FormData): Promise<void> => {
 };
 
 
-export const fetchProducts = async ({pageIndex, pageSize, search }: {
+export const fetchProducts = async ({pageIndex, pageSize, search, priceMin, priceMax }: {
     pageIndex: number,
     pageSize: number,
-    search?: string
+    search?: string,
+    priceMin: number | "",
+    priceMax: number | ""
 }
 ): Promise<ApiResponse> => {
     try {
@@ -43,6 +45,8 @@ export const fetchProducts = async ({pageIndex, pageSize, search }: {
             pageIndex,
             pageSize,
             search,
+            priceMin,
+            priceMax,
         };
 
         const { data } = await axios.get<ApiResponse>(

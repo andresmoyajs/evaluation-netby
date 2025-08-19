@@ -15,3 +15,4 @@
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/ref/application.dll
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/bin/Debug/net8.0/application.runtimeconfig.json
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.genruntimeconfig.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/application/obj/Debug/net8.0/application.sourcelink.json

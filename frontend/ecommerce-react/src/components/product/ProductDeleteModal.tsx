@@ -49,7 +49,7 @@ export default function ProductDeleteModal({
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogContent>
         <DialogHeader>
-          <DialogTitle>Desactivar producto</DialogTitle>
+          <DialogTitle>Eliminar producto</DialogTitle>
           <DialogDescription>
             Estás a punto de eliminar el producto{" "}
             <strong>{product.name}</strong>. Esta acción es{" "}

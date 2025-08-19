@@ -169,3 +169,4 @@
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/api/ProductService/obj/Debug/net8.0/ref/ProductService.dll
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/api/ProductService/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/api/ProductService/bin/Debug/net8.0/CloudinaryDotNet.dll
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/api/ProductService/obj/Debug/net8.0/ProductService.sourcelink.json

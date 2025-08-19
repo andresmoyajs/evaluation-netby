@@ -10,3 +10,4 @@
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.pdb
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/ref/domain.dll
 /Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.csproj.AssemblyReference.cache
+/Users/andresmoyajs/Work/Personal/Netby/backend/ecommerce-net/src/core/domain/obj/Debug/net8.0/domain.sourcelink.json
