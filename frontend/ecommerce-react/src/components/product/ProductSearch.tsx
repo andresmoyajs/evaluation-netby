@@ -37,7 +37,6 @@ export default function ProductSearch({
 
   return (
     <div className="flex flex-col gap-2 w-full max-w-md mb-6">
-      {/* Buscador + Botón */}
       <div className="flex gap-2 w-full">
         <Input
           className="flex-1"
@@ -55,7 +54,6 @@ export default function ProductSearch({
         </Button>
       </div>
 
-      {/* Filtros avanzados */}
       {showAdvanced && (
         <div className="flex gap-2 mt-2 w-full">
           <Input
